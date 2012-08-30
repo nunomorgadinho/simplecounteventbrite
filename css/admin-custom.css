@@ -1,0 +1,14 @@
+/* 
+    Document   : admin-custom
+    Created on : 31.03.2010, 11:52:36
+    Author     : micha
+*/
+
+.simple-count-down-wrap th {
+    text-align: right;
+}
+
+.simple-count-down-bottom {
+    text-align: right;
+    font-size: 0.8em;
+}

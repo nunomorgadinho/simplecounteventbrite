@@ -1,0 +1,17 @@
+/* 
+    Document   : custom
+    Created on : 31.03.2010, 09:14:13
+    Author     : micha
+    Description:
+*/
+
+#sidebar #simple-count-down-div strong{
+    font-size: 150%;
+}
+
+#sidebar #simple-count-down li,
+#sidebar #simple-count-down ul #simple-count-down-li {
+    list-style-type: none;
+    list-style-image: none;
+    
+}
